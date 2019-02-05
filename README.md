@@ -1,0 +1,1 @@
+A content checking application made via Flask. This application uses Smith Waterman algorithm for checking the similarity between contents. The methods are fairly static and the algorithm itsself is not very suitable for checking the plagiarism as it has no way of analysing at semantic level. It is a project done for learing purpose.
